@@ -19,6 +19,7 @@
         tools:ignore="RtlSymmetry" />
 
     <ImageView
+        android:id="@+id/iv_dialpad"
         android:layout_width="60dp"
         android:layout_height="match_parent"
         android:padding="10dp"
